@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor",
+  "title": "rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor",
+  "keywords": "rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor, esp32, esp8266, arduino",
+  "description": "rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rpi-1031-angle-sensor-four-direction-sensor-4-direction-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
